@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">PizzaApp</string>
+    <string name="size_title">Size:</string>
+    <string name="small_test">Small</string>
+    <string name="medium_text">Medium</string>
+    <string name="large_text">Large</string>
+    <string name="cancelled_action">Action cancelled</string>
+    <string name="success_action">Success</string>
+    <string name="export_action">Do you want to export all the orders?</string>
+    <string name="cancel_order_action">Do you want to cancel the order?</string>
+    <string name="clear_action">Do you want to clear the order?</string>
+    <string name="place_action">Do you want to place the order?</string>
+    <string name="delete_action">Do you want to delete the selected pizza?</string>
+    <string name="error_order_action">Error, can not place an order with 0 items</string>
+    <string name="error_clear_action">Error, can not clear an order with 0 items</string>
+    <string name="error_cancel_order">Error, can not cancel nothing</string>
+    <string name="no_text">no</string>
+    <string name="yes_text">yes</string>
+    <string name="current_order_text">Current Order</string>
+    <string name="orders_text">Orders</string>
+    <string name="subtotal_text">Subtotal: </string>
+    <string name="sales_tax_text">Sales Tax: </string>
+    <string name="total_price_tax">Sales Tax: </string>
+    <string name="num_of_orders_text">Order #: </string>
+    <string name="order_total">Order Total(w/Tax): </string>
+    <string name="cancel_order">Cancel Order</string>
+    <string name="place_order_text">Place Order</string>
+    <string name="clear_order_text">Clear Order</string>
+    <string name="chicago_title">Create a Chicago Style Pizza</string>
+    <string name="ny_title">Create a New York Style Pizza</string>
+    <string name="topping_title">Add Toppings (+$1.59 each)</string>
+    <string name="new_york_pizza_card">New York Pizza</string>
+    <string name="chicago_pizza_card">Chicago Pizza</string>
+    <string name="store_orders_card">Store Orders</string>
+    <string name="current_order_card">Current Order</string>
+    <string name="instruction_text">Click on the pizza to remove.</string>
+</resources>
